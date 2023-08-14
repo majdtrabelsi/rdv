@@ -1,0 +1,54 @@
+body{
+   background-color: rgb(233, 186, 125);
+}
+
+h1{
+    color:rgb(235, 207, 173) ;
+    font-size: 35px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-left: 20px;
+    float: left;
+    padding-top: 10px;
+}
+h2{
+    width: 1200px;
+    height: auto;
+    margin: auto;
+    color:rgb(25, 51, 42);
+    position: relative;
+    font-family: 'Segoe UI', Tahoma, Verdana, sans-serif;
+}
+span{
+    color: rgb(54, 110, 92);
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+}
+form{
+    width: 300px;
+    margin: 0 auto;
+    position: absolute;
+    top: 30%;
+    left: 50%;
+    transform: translate(-230%,-50%);
+}
+.btnd {
+    margin-top: 20px;
+    padding: 10px 40px;
+    background-color:red;
+    color: white;
+    border: none;
+    cursor: pointer;
+    border-radius: 10px;
+}
+.btns{
+    margin-top: 20px;
+    padding: 10px 40px;
+    background-color: #45a049;
+    color: white;
+    border: none;
+    cursor: pointer;
+    border-radius: 10px;
+}
+a{
+    color: aliceblue;
+    text-decoration:none ;
+}
